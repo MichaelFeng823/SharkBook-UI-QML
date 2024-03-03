@@ -23,7 +23,7 @@ github个人主页：
 
 登录界面
 
-<img src="E:\Git-backup\SharkBook-UI-QML\GIF\login.gif" style="zoom: 67%;" />
+<img src=GIF\login.gif" style="zoom: 67%;" />
 
 主框架界面
 
@@ -33,12 +33,12 @@ github个人主页：
 
 账单列表
 
-<img src="E:\Git-backup\SharkBook-UI-QML\GIF\book_view.gif" style="zoom:67%;" />
+<img src="GIF\book_view.gif" style="zoom:67%;" />
 
 记账页面
 
-<img src="E:\Git-backup\SharkBook-UI-QML\GIF\booking.gif" style="zoom:67%;" />
+<img src="GIF\booking.gif" style="zoom:67%;" />
 
 日期选择
 
-<img src="E:\Git-backup\SharkBook-UI-QML\GIF\date_select.gif" style="zoom:67%;" />
+<img src="GIF\date_select.gif" style="zoom:67%;" />
