@@ -27,7 +27,7 @@ github个人主页：
 
 主框架界面
 
-<img src="E:\Git-backup\SharkBook-UI-QML\GIF\main_frame.gif" style="zoom: 67%;" />
+<img src="GIF\main_frame.gif" style="zoom: 67%;" />
 
 
 
