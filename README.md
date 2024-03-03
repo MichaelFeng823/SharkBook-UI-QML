@@ -23,22 +23,22 @@ github个人主页：
 
 登录界面
 
-<img src="GIF\login.gif" style="zoom:67%;" />
+<img src="GIF/login.gif" style="zoom:67%;" />
 
 主框架界面
 
-<img src="GIF\main_frame.gif" style="zoom: 67%;" />
+<img src="GIF/main_frame.gif" style="zoom: 67%;" />
 
 
 
 账单列表
 
-<img src="GIF\book_view.gif" style="zoom:67%;" />
+<img src="GIF/book_view.gif" style="zoom:67%;" />
 
 记账页面
 
-<img src="GIF\booking.gif" style="zoom:67%;" />
+<img src="GIF/booking.gif" style="zoom:67%;" />
 
 日期选择
 
-<img src="GIF\date_select.gif" style="zoom:67%;" />
+<img src="GIF/date_select.gif" style="zoom:67%;" />
