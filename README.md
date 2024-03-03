@@ -23,7 +23,7 @@ github个人主页：
 
 登录界面
 
-<img src=GIF\login.gif" style="zoom: 67%;" />
+![](GIF\login.gif)
 
 主框架界面
 
